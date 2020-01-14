@@ -18,11 +18,10 @@ convnet/
 decaf/
 submission/
 cfg/
-build/darknet/*
-build_*/
+
+
 !build/darknet/YoloWrapper.cs
 .fuse*
-*.weights
 build/*.cmake
 build/*.ninja
 build/*.txt
